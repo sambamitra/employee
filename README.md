@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sambamitra/employee.svg?branch=master)](https://travis-ci.org/sambamitra/employee)
+[![Build Status](https://travis-ci.org/sambamitra/employee.svg?branch=main)](https://travis-ci.org/sambamitra/employee)
 # Employee service
 This is a simple micro-service based on Spring Boot.
 
